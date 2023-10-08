@@ -23,9 +23,9 @@ var config = {
         play: "Im im rứa, cho tôi con beat đê!",
         bannar_coming: "Thêm tí màu mè nè!",
         balloons_flying: "Cho mấy quả bong bóng bay chill chill đi!",
-        cake_fadein: "Thêm vài quả nữa =))",
+        cake_fadein: "Cho xin cái bánh kem =))",
         light_candle: "Thăp nến lên mà thổi, lẹ cái tay!",
         wish_message: "Ước lẹ ước lẹ!",
-        story: "Ước rồi thì kích tiếp mà xem",
+        story: "Ước rồi thì kích tiếp mà xem, chần chờ gì nữa!",
     }
 };
